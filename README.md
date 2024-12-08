@@ -14,7 +14,15 @@ In your <i>Documents/WindowsAccess</i> folder, there is a <i>Config.ini</i>, whi
 
 	+ How the folder should be named
 	+ After how many seconds app feels obliged to check for the folder
-	+ Should the app record every failed attempt into a <i>*Log*</i> folder.
+	+ Should the app record every failed attempt into a Log folder.
+
+Also there is a folder named <i>Logs</i> where it stores all failed attempts, date/time and on which user someone tried to log in.
+When the app is runned for the first time it creates by itself all the necessary folders/files.
+
+## <h2 align=center>*Installation*</h2>
+
+When you download the file from [WindowsAccess.exe](https://github.com/dinii0/WindowsAccess/releases/tag/windows.access), you should put this in your <i>StartUp</i> folder. And it runs by itself every time. If you want to remove it just delete it from the <i>StartUp</i> folder.
+It is recommended to put this file somewhere safe, and create a <i>Shortcut</i> instead and throw it in your <i>StartUp</i> folder.
 
 <table align="center">
   <tr>
@@ -42,4 +50,3 @@ In your <i>Documents/WindowsAccess</i> folder, there is a <i>Config.ini</i>, whi
     </td>
   </tr>
 </table>
-
