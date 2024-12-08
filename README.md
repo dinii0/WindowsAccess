@@ -10,7 +10,8 @@ After *X* intervals if the folder with the specific name is not in the desktop, 
 
 ## <h2 align=center>*Additional information*</h2>
 
-In your <i><u>Documents/WindowsAccess</u></i> folder, there is a <i>*Config.ini*</i>, which it allows you to change specific parameters, like:
+In your <i>Documents/WindowsAccess</i> folder, there is a <i>Config.ini</i>, which it allows you to change specific parameters, like:
+
 	+ How the folder should be named
 	+ After how many seconds app feels obliged to check for the folder
 	+ Should the app record every failed attempt into a <i>*Log*</i> folder.
