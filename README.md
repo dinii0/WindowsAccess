@@ -1,5 +1,20 @@
-# WindowsAccess
- 
+# <h2 align=center>*WindowsAccess*</h2>
+
+<p align="center">
+   <img src= "https://github.com/dinii0/WindowsAccess/blob/main/WindowsAccess/background.jpg?raw=true">
+</p>
+
+This is a simple app that checks if the right user has logged in your PC, even tho they knew your profile password.
+Everytime the password is typed, the app will gives user few seconds, for them to create a folder with a specific name in the desktop.
+After *X* intervals if the folder with the specific name is not in the desktop, the computer shuts itself down.
+
+## <h2 align=center>*Additional information*</h2>
+
+In your <i><u>Documents/WindowsAccess</u></i> folder, there is a <i>*Config.ini*</i>, which it allows you to change specific parameters, like:
+	+ How the folder should be named
+	+ After how many seconds app feels obliged to check for the folder
+	+ Should the app record every failed attempt into a <i>*Log*</i> folder.
+
 <table align="center">
   <tr>
     <td align="center">
