@@ -19,6 +19,8 @@ In your <i>Documents/WindowsAccess</i> folder, there is a <i>Config.ini</i>, whi
 Also there is a folder named <i>Logs</i> where it stores all failed attempts, date/time and on which user someone tried to log in.
 When the app is runned for the first time it creates by itself all the necessary folders/files.
 
+The app wont affect the perfomance of your computer, this will be runned once when your PC has started, and after that the app will be closed immediately.
+
 ## <h2 align=center>*Installation*</h2>
 
 When you download the file from [WindowsAccess.exe](https://github.com/dinii0/WindowsAccess/releases/tag/windows.access), you should put this in your <i>StartUp</i> folder. And it runs by itself every time. If you want to remove it just delete it from the <i>StartUp</i> folder.
