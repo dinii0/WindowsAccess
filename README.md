@@ -43,7 +43,15 @@ It is recommended to put this file somewhere safe, and create a <i>Shortcut</i> 
         <img src="https://img.shields.io/github/issues-pr-closed/dinii0/WindowsAccess" alt="GitHub pull requests closed">
       </a>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=dinii0&show_icons=true" alt="dinii0's GitHub Stats">
+      <a href="https://github.com/dinii0/PasswordVault/network/members">
+        <img src="https://img.shields.io/github/forks/dinii0/PasswordVault?style=for-the-badge&color=lighgreen" alt="Forks">
+      </a>
+      <a href="https://github.com/dinii0/PasswordVault/watchers">
+        <img src="https://img.shields.io/github/watchers/dinii0/PasswordVault?style=for-the-badge&color=lighgreen" alt="Watchers">
+      </a>
+      <a href="https://github.com/dinii0/PasswordVault/commits/main">
+        <img src="https://img.shields.io/github/last-commit/dinii0/PasswordVault?style=for-the-badge&color=lighgreen" alt="Last Commit">
+      </a>
       <br>
       <h2>You can give me a star!</h2>
       <a href="https://github.com/dinii0/WindowsAccess/stargazers">
